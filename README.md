@@ -7,16 +7,16 @@
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Rose" an Opensource WhatsApp bot made by <a href="https://github.com/Trinity002">FantoX</a> to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Rose MD - The Future Is Here
 </h4>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/Trinity002/Rose-MD/fork">
+    <img src="https://img.shields.io/github/forks/Trinity002/Rose-MD?label=Fork&style=social">
     
     
   <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
